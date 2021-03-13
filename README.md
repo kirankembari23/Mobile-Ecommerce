@@ -1,18 +1,25 @@
 
 Steps  to Run Application
-### `npm install`
+###############################################################################################
+ In the project directory,
+1) `npm install`
 To install node modules
 
-In the project directory, you can run:
+################################################################################################
 
-### `npm start`
+then In the project directory, you can run:
+
+2) `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+##############################################################################################
 Please use following credentials for login
+
 username = kiran
 password = kiran123
+#############################################################################################
 
 # Getting Started with Create React App
 
