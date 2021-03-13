@@ -7,7 +7,7 @@ function Home (props) {
     let [message, setMessage] = useState(props.location.state ? props.location.state.successMessage : null);
     setTimeout(()=>{
         setMessage(null)
-      },3000)
+      },4000)
     function renderSuccessMsg(){
         if(!empty(message) && notUndefinedAndNull(message)){
           return(

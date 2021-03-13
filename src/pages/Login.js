@@ -42,7 +42,7 @@ class Login extends React.Component {
         this.setState((state, props)=>({
           errorMessage: "",
         }));
-      },3000)
+      },4000)
      }
   }
 

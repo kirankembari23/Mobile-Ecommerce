@@ -7,8 +7,8 @@ import {NavLink} from 'react-router-dom';
 const ShoppingCart = (props) => {
    function proceedToBuy(){
          /// code for checkout page
-         alert("Proceed to checkout")
-    }
+         alert("Sorry, Currently Payment getway not integrted.")
+            }
 
     function  renderByeButton(){
         let isLoggedIn = localStorage.getItem('isLoggedIn')
