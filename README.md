@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ##############################################################################################
 Please use following credentials for login
 
-username = kiran
+username = kiran,                                                       
 password = kiran123
 #############################################################################################
 
