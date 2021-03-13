@@ -7,7 +7,7 @@ import {NavLink} from 'react-router-dom';
 const ShoppingCart = (props) => {
    function proceedToBuy(){
          /// code for checkout page
-         alert("Sorry, Currently Payment getway not integrted.")
+         alert("Sorry, Currently Payment getway is not integrated.")
             }
 
     function  renderByeButton(){
